@@ -1,0 +1,2 @@
+http://flip3.engr.oregonstate.edu:22924/
+https://github.com/doddco/CS290.git
